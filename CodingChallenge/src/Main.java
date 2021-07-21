@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private String FilePath = "Tests/tests.csv";
+    private String FilePath = "CodingChallenge/Tests/tests.csv";
 
     ArrayList<Transaction> record = TransactionRecord.transactionRecords;
 
